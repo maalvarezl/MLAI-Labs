@@ -11,5 +11,5 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - urllib
+  - urllib3
   - pylab
