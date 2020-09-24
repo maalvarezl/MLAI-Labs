@@ -24,6 +24,8 @@ The [University of Sheffield has a remote desktop service](https://www.sheffield
 
 ### Option 3
 
-You can run the Jupyter Notebooks directly on Binder. Click in the logo 
+You can run the Jupyter Notebooks directly on [Binder](https://mybinder.org/). Click on the logo 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maalvarezl/MLAI-Labs/master)
+
+Notice that Binder takes some time starting the server where the notebook will be running. Also, it might get slow when there are a lot of users accessing simultaneously. 
 
