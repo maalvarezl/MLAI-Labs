@@ -12,3 +12,4 @@ dependencies:
   - bokeh
   - dask
   - urllib3
+  - scikit-learn
