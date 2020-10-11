@@ -13,3 +13,4 @@ dependencies:
   - dask
   - urllib3
   - scikit-learn
+  - ipython
