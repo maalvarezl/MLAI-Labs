@@ -14,4 +14,4 @@ dependencies:
   - urllib3
   - scikit-learn
   - ipython
-  - graphviz
+  - python-graphviz
